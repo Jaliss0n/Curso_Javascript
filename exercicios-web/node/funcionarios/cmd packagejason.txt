@@ -1,0 +1,24 @@
+{
+  "name": "funcionarios",
+  "version": "1.0.0",
+  "description": "fgdsgdfgd",
+  "main": "funcionarios.js",
+  "scripts": {
+    "start": "nodemon",
+    "dev": "nodemon", \\ SCRIPTS QUE NÃO SÃO PALAVRAS RESERVADAS COMO ESTE, E NECESSARIO ESCREBER npm run dev(ou o nome de qualquer outro scripts para rodar)
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rtretert",
+    "retert",
+    "reterter"
+  ],
+  "author": "jalishow",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.23.0"
+  }
+  
+}
+
+USANDO 'npm i' e possivel recriar toda a pasta node_modules, desde que no diretoria haja a package-lock.json

@@ -1,0 +1,2 @@
+const saudacoes = require('./passandoParametros')('Ana','Lucas','Jão') //os parenteses logo apos a importação do modulo, representam os parametros que foram passados para a função do mesmo
+console.log(saudacoes)
